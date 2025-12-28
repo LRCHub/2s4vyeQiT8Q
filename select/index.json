@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "ANEJO",
+  "base_artist": "E.Sanny",
+  "createdAt": "2025-12-28T14:54:11.186407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anejo",
+      "artist": "Burn Halo",
+      "has_synced": true,
+      "path": "select/01_Anejo_Burn_Halo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Amor Añejo",
+      "artist": "Internacional Carro Show",
+      "has_synced": true,
+      "path": "select/02_Amor_Añejo_Internacional_Carro_Show.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Amor Añejo",
+      "artist": "Internacional Carro Show",
+      "has_synced": false,
+      "path": "select/03_Amor_Añejo_Internacional_Carro_Show.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Amor Añejo",
+      "artist": "Cardenales de Nuevo León",
+      "has_synced": true,
+      "path": "select/04_Amor_Añejo_Cardenales_de_Nuevo_León.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Anejo",
+      "artist": "April Wine",
+      "has_synced": false,
+      "path": "select/05_Anejo_April_Wine.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ron Añejo",
+      "artist": "EZVIT 810",
+      "has_synced": true,
+      "path": "select/06_Ron_Añejo_EZVIT_810.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Añejo",
+      "artist": "Rawayana",
+      "has_synced": false,
+      "path": "select/07_Añejo_Rawayana.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Añejo W",
+      "artist": "Los Caligaris",
+      "has_synced": true,
+      "path": "select/08_Añejo_W_Los_Caligaris.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Amor Añejo",
+      "artist": "Internacional Carro Show",
+      "has_synced": true,
+      "path": "select/09_Amor_Añejo_Internacional_Carro_Show.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vino Añejo",
+      "artist": "Rubén Blades",
+      "has_synced": true,
+      "path": "select/10_Vino_Añejo_Rubén_Blades.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Añejo W",
+      "artist": "La Sonora Dinamita",
+      "has_synced": true,
+      "path": "select/11_Añejo_W_La_Sonora_Dinamita.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vino Añejo (Album Version)",
+      "artist": "Ruben Blades",
+      "has_synced": true,
+      "path": "select/12_Vino_Añejo_(Album_Version)_Ruben_Blades.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Amor Añejo",
+      "artist": "Cardenales De Nuevo León",
+      "has_synced": true,
+      "path": "select/13_Amor_Añejo_Cardenales_De_Nuevo_León.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Amor Añejo",
+      "artist": "Carro Show",
+      "has_synced": true,
+      "path": "select/14_Amor_Añejo_Carro_Show.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Añejo",
+      "artist": "KYR4",
+      "has_synced": true,
+      "path": "select/15_Añejo_KYR4.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Añejo W - Vivo",
+      "artist": "Los Caligaris",
+      "has_synced": true,
+      "path": "select/16_Añejo_W_-_Vivo_Los_Caligaris.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Añejo",
+      "artist": "Rawayana",
+      "has_synced": true,
+      "path": "select/17_Añejo_Rawayana.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Añejo W (Vivo) (feat. Big Javy)",
+      "artist": "Los Caligaris",
+      "has_synced": true,
+      "path": "select/18_Añejo_W_(Vivo)_(feat._Big_Javy)_Los_Caligaris.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Amor Añejo",
+      "artist": "Internacional Carro Show",
+      "has_synced": true,
+      "path": "select/19_Amor_Añejo_Internacional_Carro_Show.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Amor Añejo",
+      "artist": "Internacional Carro Show",
+      "has_synced": true,
+      "path": "select/20_Amor_Añejo_Internacional_Carro_Show.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ANEJO",
+      "artist": "E.Sanny",
+      "has_synced": false,
+      "path": "select/pl_01_ANEJO_E.Sanny.txt"
+    }
+  ]
+}
